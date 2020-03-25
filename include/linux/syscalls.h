@@ -1293,4 +1293,6 @@ static inline unsigned int ksys_personality(unsigned int personality)
 	return old;
 }
 
+asmlinkage long sys_sayhello(void);
+
 #endif
