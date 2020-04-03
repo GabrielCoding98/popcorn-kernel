@@ -416,3 +416,5 @@
 399	common	io_pgetevents		sys_io_pgetevents
 #my call
 400	common	sayhello		sys_sayhello
+#list Processes Info
+401	common	listProcess		sys_listProcessInfo

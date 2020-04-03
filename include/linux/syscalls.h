@@ -1293,6 +1293,9 @@ static inline unsigned int ksys_personality(unsigned int personality)
 	return old;
 }
 
+// personal syscalls
 asmlinkage long sys_sayhello(void);
+
+asmlinkage long sys_listProcessInfo(char *userReq);
 
 #endif

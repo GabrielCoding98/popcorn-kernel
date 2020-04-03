@@ -1,0 +1,35 @@
+!<thin>
+//                                              238       `
+mii.o/
+Space.o/
+loopback.o/
+phy/mdio-boardinfo.o/
+phy/phy.o/
+phy/phy-c45.o/
+phy/phy-core.o/
+phy/phy_device.o/
+phy/mdio_bus.o/
+phy/mdio_device.o/
+phy/swphy.o/
+phy/fixed_phy.o/
+phy/microchip.o/
+usb/lan78xx.o/
+usb/smsc95xx.o/
+usb/usbnet.o/
+
+/0              0           0     0     644     14712     `
+/7              0           0     0     644     3212      `
+/16             0           0     0     644     6628      `
+/28             0           0     0     644     4744      `
+/50             0           0     0     644     31868     `
+/61             0           0     0     644     15384     `
+/76             0           0     0     644     16936     `
+/92             0           0     0     644     56868     `
+/110            0           0     0     644     33352     `
+/126            0           0     0     644     9836      `
+/145            0           0     0     644     4828      `
+/158            0           0     0     644     11472     `
+/175            0           0     0     644     10008     `
+/192            0           0     0     644     54580     `
+/207            0           0     0     644     32460     `
+/223            0           0     0     644     59444     `
